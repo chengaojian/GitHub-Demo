@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 修改此行代码,通过Xcode提交到GitHub !!! 快捷键 (option + command + c)
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
